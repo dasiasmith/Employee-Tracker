@@ -31,6 +31,8 @@
   ## Usage
 
   Confirm all dependencies are installed.
+  The following image shows the application in use:
+  ![Application Demo](EmployeeTracker.gif)
 
   ## License
 
